@@ -1,9 +1,9 @@
-# ETS-GrafKom-Inisial3D
+# ETS-GrafKom
 
 
 | **Nama** | **NRP** | 
 | ------------- | --------- |
-| Andrian Tambunan  | 5025211018 | 
+| Fauzi Rizki Pratama  | 5025211220 | 
 
 ## Deployment 
-https://andriantambunan.github.io/ETS-GrafKom-Inisial3D/
+
